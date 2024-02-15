@@ -1,2 +1,1 @@
-# Notion-
-Trading View 
+Notion-Trading View 
